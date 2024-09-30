@@ -29,7 +29,7 @@ def main():
 
     print(datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 
-    query = "touhou plush"
+    query = "FUMOFUMO plush"
     results = amiami.search(query)
 
     data = load_json_file()

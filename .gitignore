@@ -13,3 +13,5 @@ mercari.json
 settings.json
 launcher
 fumo.db
+venv/
+*.sh
